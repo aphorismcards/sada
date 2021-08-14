@@ -119,18 +119,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         url = "#"
         description = "Description of the **awesome** project 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
-    # Skills section
-    [params.skills]
-        title = "Skills"
-
-        [[params.skills.list]]
-        skill = "Skill 1, Skill 2"
-        skillrating = 95 # out of 100
-                
-        [[params.skills.list]]
-        skill = "Skill 3"
-        skillrating = 90
-		
-        [[params.skills.list]]
-        skill = "Skill 4"
-        skillrating = 80
+  
